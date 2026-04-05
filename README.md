@@ -54,3 +54,4 @@
 43. [Itertools.accumulate()](https://www.geeksforgeeks.org/python-itertools-accumulate/) : 後面可放 function, ex: 相加, 相乘, max
 44. [Itertools.Product()](https://www.geeksforgeeks.org/python-itertools-product/) : 兩個 lists 所有 elements 的組合
 45. [Getting key with maximum value in dictionary](https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary) : max(dict, key=dict.get)
+46. 想要「新 list（不包含某 index）」 temp_nums = nums[:i] + nums[i+1:]
